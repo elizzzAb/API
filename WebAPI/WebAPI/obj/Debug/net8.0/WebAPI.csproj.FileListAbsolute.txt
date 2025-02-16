@@ -166,3 +166,4 @@ C:\Users\Elizabeth\Desktop\asincronaAPI\WebAPI\WebAPI\obj\Debug\net8.0\refint\We
 C:\Users\Elizabeth\Desktop\asincronaAPI\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\Elizabeth\Desktop\asincronaAPI\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\Elizabeth\Desktop\asincronaAPI\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\Elizabeth\Desktop\asincronaAPI\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
