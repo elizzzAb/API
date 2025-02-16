@@ -10,29 +10,32 @@ Esta es una API RESTful para gestionar un catálogo de productos. Permite realiz
 
 
 
-####1.	Clona el repositorio de GitHub:
+1.	Clona el repositorio de GitHub:
 
 https://github.com/elizzzAb/API.git
 
-####2.	Abre el proyecto en Visual Studio
+
+2.	Abre el proyecto en Visual Studio
 
 
-####3.	Actualiza la cadena de conexión a la base de datos en el archivo appsettings.json:
+3.	Actualiza la cadena de conexión a la base de datos en el archivo appsettings.json:
 
 "ConnectionStrings": {
   "DefaultConnection": "Data Source=LAPTOP-GK1DJVHC\\SQLEXPRESS;Initial Catalog=API;Integrated Security=True;Trust Server Certificate=True"
 }
 
+
 Reemplaza los valores de “LAPTOP-GK1DJVHC”, “API” con los datos de tu instancia de SQL Server.
 
 
-####4.	Ejecuta las migraciones de Entity Framework Core para crear la base de datos:
+4.	Ejecuta las migraciones de Entity Framework Core para crear la base de datos:
 
 dotnet ef database update
 
-####5.	Inicia la aplicación:
+5.	Inicia la aplicación:
 
 dotnet run
+
 
 Una vez que la aplicación esté en ejecución, podrás acceder a la documentación Swagger de la API en la siguiente URL:
 https://localhost:7230/swagger
